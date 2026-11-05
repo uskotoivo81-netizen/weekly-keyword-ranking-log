@@ -1,0 +1,3 @@
+date,keyword,region,device,position,ranking_url,previous_position,change
+2026-11-02,example query,Example City,desktop,4,https://example.com/page,6,2
+2026-11-02,example query two,Example City,desktop,,https://example.com/other,,
